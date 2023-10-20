@@ -31,10 +31,10 @@ Practica 12
 |  1  |   ![Prueba 1 de populares a la aplicacion](https://github.com/srzzuares/dmi_moviedb_practica12_200527_flutter/blob/main/asset/pruebas/p-1.png)   |
 |  2  | ![Prueba 2 de Proximamente en otra pantalla](https://github.com/srzzuares/dmi_moviedb_Practica12_200527_flutter/blob/main/asset/pruebas/p-2.png) |
 |  3  |        ![Prueba 3 de Mejor valoradas](https://github.com/srzzuares/dmi_moviedb_Practica12_200527_flutter/blob/main/asset/pruebas/p-3.png)        |
-|  3  |              ![Prueba 3 Drawer](https://github.com/srzzuares/dmi_moviedb_Practica12_200527_flutter/blob/main/asset/pruebas/p-4.png)              |
-|  3  |      ![Prueba 3 Televisorass Populares](https://github.com/srzzuares/dmi_moviedb_Practica12_200527_flutter/blob/main/asset/pruebas/p-5.png)      |
-|  3  |           ![Prueba 3 Proximamente](https://github.com/srzzuares/dmi_moviedb_Practica12_200527_flutter/blob/main/asset/pruebas/p-6.png)           |
-|  3  |         ![Prueba 3 Mejor Valoradas](https://github.com/srzzuares/dmi_moviedb_Practica12_200527_flutter/blob/main/asset/pruebas/p-7.png)          |
+|  4  |              ![Prueba 3 Drawer](https://github.com/srzzuares/dmi_moviedb_Practica12_200527_flutter/blob/main/asset/pruebas/p-4.png)              |
+|  5  |      ![Prueba 3 Televisorass Populares](https://github.com/srzzuares/dmi_moviedb_Practica12_200527_flutter/blob/main/asset/pruebas/p-5.png)      |
+|  6  |           ![Prueba 3 Proximamente](https://github.com/srzzuares/dmi_moviedb_Practica12_200527_flutter/blob/main/asset/pruebas/p-6.png)           |
+|  7  |         ![Prueba 3 Mejor Valoradas](https://github.com/srzzuares/dmi_moviedb_Practica12_200527_flutter/blob/main/asset/pruebas/p-7.png)          |
 
 ## Instalación
 
